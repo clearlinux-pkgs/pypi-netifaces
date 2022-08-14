@@ -4,7 +4,7 @@
 #
 Name     : pypi-netifaces
 Version  : 0.11.0
-Release  : 78
+Release  : 79
 URL      : https://files.pythonhosted.org/packages/a6/91/86a6eac449ddfae239e93ffc1918cf33fd9bab35c04d1e963b311e347a73/netifaces-0.11.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/a6/91/86a6eac449ddfae239e93ffc1918cf33fd9bab35c04d1e963b311e347a73/netifaces-0.11.0.tar.gz
 Summary  : Portable network interface information.
